@@ -1,0 +1,18 @@
+li{
+	list-style-type: none;
+	text-align: center;
+}
+div{
+	display: inline-block; 
+	border: 2px black solid;
+	margin: 5px;
+	padding: 5px;
+}
+button{
+	display: block;
+	width: 100%;
+	margin-top: 2px;
+	font-size: 30;
+	border-radius: 5px;
+	background: linear-gradient(to bottom, blue, white);
+}
